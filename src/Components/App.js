@@ -1,6 +1,6 @@
 
 import React, { Component } from 'react';
-import Circle from './Components/Circle';
+import Circle from './Circle';
 
 class App extends Component {
   render() {
