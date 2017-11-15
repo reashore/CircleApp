@@ -7,7 +7,7 @@ class App extends Component {
     return (
       <div >
         <h1>Circle App</h1>
-        <Circle />
+        <Circle bgColor="#F9C240"/>
       </div>
     );
   }
