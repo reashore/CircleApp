@@ -1,8 +1,7 @@
-import React, {Component} from 'react';
+import React, { Component } from 'react';
 
 class Circle extends Component {
-
-    render () {
+    render() {
         const circleStyle = {
             padding: 10,
             margin: 20,
